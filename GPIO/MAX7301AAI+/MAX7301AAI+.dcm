@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX7301AAI+
+D Maxim MAX7301AAI+, Input Output Controller 20-USB, 28-Pin SSOP
+F https://datasheets.maximintegrated.com/en/ds/MAX7301.pdf
+$ENDCMP
+#
+#End Doc Library
